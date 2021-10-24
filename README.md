@@ -1,5 +1,5 @@
 This is a starter template for [Learn Next.js](https://nextjs.org/learn).
-
+24Oct21:https://nextjs.org/learn/seo/crawling-and-indexing/canonical
 # Notes
 1. client-side navigation
   - page transition using javascript which is faster than default navigation by browser
