@@ -44,7 +44,7 @@ This is a starter template for [Learn Next.js](https://nextjs.org/learn).
             }
           }
       ```
-  - Client-side Rendering(I think it is static generation with data but does not need to pre-render the data)
+  - Client-side Rendering(Using client-side javascript to render pages directly to browser, no pre-rendering.)
 5. Dynamic Routing
   - <mark>getStaticPaths</mark> is like getStaticProps...it fetches dynamic ids for the purpose of [id].js file
   ```javascript
